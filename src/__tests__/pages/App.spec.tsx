@@ -82,6 +82,7 @@ describe('Dashboard', () => {
         image_url:
           'https://http2.mlstatic.com/cadeira-rivatti-branca-pes-madeira-confortavel-bonita-D_NQ_NP_981901-MLB20422264882_092015-F.jpg',
         price: 400,
+        quantity: 1,
       },
       {
         id: '123456',
